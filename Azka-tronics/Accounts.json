@@ -1,0 +1,254 @@
+{
+    "accounts": [
+        {
+            "id": 1,
+            "customer_full_name": "Shubham",
+            "email": "ksinghshubh@gmail.com",
+            "password": "12345678",
+            "phone_number": "01289689612",
+            "address": "Narges 100",
+            "cart": [],
+            "previous_orders": [
+                {
+                    "2022-12-05 22:33:45": [
+                        [
+                            "iPhone 14 Pro Max",
+                            "Space Black",
+                            "128GB",
+                            1099.99
+                        ]
+                    ]
+                },
+                {
+                    "2022-12-06 20:04:24": [
+                        [
+                            "Legion 7i Gen 7 (16\u201d Intel) Gaming Laptop.",
+                            " ",
+                            " ",
+                            1949.99
+                        ],
+                        [
+                            "iPhone 14 Pro Max",
+                            "Silver",
+                            "128GB",
+                            1099.99
+                        ],
+                        [
+                            "iPad Pro",
+                            "Space Grey",
+                            "128GB",
+                            799.99
+                        ]
+                    ]
+                },
+                {
+                    "2022-12-07 01:06:16": [
+                        [
+                            "iPhone 14 Pro Max",
+                            "Space Black",
+                            "128GB",
+                            1099.99
+                        ]
+                    ]
+                },
+                {
+                    "2022-12-07 01:07:35": [
+                        [
+                            "Legion Tower 7i Gen 7 with RTX 3080",
+                            " ",
+                            " ",
+                            2239.99
+                        ]
+                    ]
+                },
+                {
+                    "2022-12-08 11:45:49": [
+                        [
+                            "iPhone 14 Pro Max",
+                            "Space Black",
+                            "128GB",
+                            1099.99
+                        ]
+                    ]
+                },
+                {
+                    "2022-12-08 11:47:17": [
+                        [
+                            "Legion Tower 7i Gen 7 with RTX 3080",
+                            " ",
+                            " ",
+                            2239.99
+                        ]
+                    ]
+                },
+                {
+                    "2022-12-08 15:15:27": [
+                        [
+                            "Legion 7i Gen 7 (16\u201d Intel) Gaming Laptop.",
+                            " ",
+                            " ",
+                            1949.99
+                        ]
+                    ]
+                }
+            ],
+            "saved_card": {
+                "Card Holder name": "shady",
+                "Card Number": "21019",
+                "Expiry Date": "17/22",
+                "CVV": "344",
+                "PIN": "4321"
+            }
+        },
+        {
+            "id": 2,
+            "customer_full_name": "Shub",
+            "email": "ksi.shubh@gmail.com",
+            "password": "87654321",
+            "phone_number": "01282649612",
+            "address": "Narges 2",
+            "cart": [],
+            "previous_orders": []
+        },
+        {
+            "id": 3,
+            "customer_full_name": "Karim",
+            "email": "katodzzi",
+            "password": "8765242211",
+            "phone_number": "01287654321",
+            "address": "Narges 3",
+            "cart": [],
+            "previous_orders": []
+        },
+        {
+            "id": 4,
+            "customer_full_name": "Karim Kamel Zaher",
+            "email": "kamkdsm",
+            "password": "lol123"
+        },
+        {
+            "id": 5,
+            "customer_full_name": "Karim",
+            "email": "kalol",
+            "password": "1234"
+        },
+        {
+            "id": 6,
+            "customer_full_name": "lol",
+            "email": "lololol",
+            "password": "lol"
+        },
+        {
+            "id": 7,
+            "customer_full_name": "zoz",
+            "email": "lol",
+            "password": "123"
+        },
+        {
+            "id": 8,
+            "customer_full_name": "lol",
+            "email": "mkmkmkm",
+            "password": "234"
+        },
+        {
+            "id": 9,
+            "customer_full_name": "sds",
+            "email": "pp",
+            "password": "lol"
+        },
+        {
+            "id": 10,
+            "customer_full_name": "mohamed hesham",
+            "email": "amazing@gmail.com",
+            "password": "hesho"
+        },
+        {
+            "id": 11,
+            "customer_full_name": "Zaid Yasser",
+            "email": "ziadyasser@gmail.com",
+            "password": "1234",
+            "address": "Dyar Compound",
+            "phone_number": "01247463774",
+            "previous_orders": [
+                {
+                    "2022-12-09 20:01:28": [
+                        [
+                            "ThinkPad",
+                            " ",
+                            " ",
+                            1449.99
+                        ]
+                    ]
+                },
+                {
+                    "2022-12-09 20:03:04": [
+                        [
+                            "Galaxy Tab S8 Ultra",
+                            "Graphite",
+                            "128GB",
+                            1149.99
+                        ]
+                    ]
+                },
+                {
+                    "2022-12-09 20:09:20.019964": [
+                        [
+                            "iPhone 14 Pro Max",
+                            "Space Black",
+                            "128GB",
+                            1099.99
+                        ]
+                    ]
+                }
+            ],
+            "cart": [
+                [
+                    "iPhone 14 Pro Max",
+                    "Space Black",
+                    "128GB",
+                    1099.99
+                ],
+                [
+                    "iPad Pro",
+                    "Space Grey",
+                    "128GB",
+                    799.99
+                ]
+            ]
+        },
+        {
+            "id": 12,
+            "customer_full_name": "Kimo",
+            "email": "karim@gmail.com",
+            "password": "1234"
+        },
+        {
+            "id": 13,
+            "customer_full_name": "Lolo9876.",
+            "email": "lol@gmail.com",
+            "password": "Lolo9876.",
+            "address": "Shoubra 2",
+            "phone_number": "0122173237324"
+        },
+        {
+            "id": 14,
+            "customer_full_name": "Brian",
+            "email": "example@example.com",
+            "password": "Brian123!",
+            "address": "1",
+            "phone_number": "1"
+        },
+        {
+            "id": 15,
+            "customer_full_name": "seif mahdy",
+            "email": "abc@gmail.com",
+            "password": "seifMahdy*1 "
+        },
+        {
+            "id": 16,
+            "customer_full_name": "lol kamel",
+            "email": "lokldns@gmail.com",
+            "password": "Popo1234."
+        }
+    ]
+}

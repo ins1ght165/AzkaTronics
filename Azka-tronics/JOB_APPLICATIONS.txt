@@ -1,0 +1,1 @@
+['yara', 'Office Worker', '6', '99', 'yv', 'None', '2', 'N', 'None', 'Y', 'hh', 'yy', 'f', 'yy', 'N', 'None', 'None', 'None', 'N', 'None'] 
