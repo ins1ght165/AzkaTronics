@@ -1,6 +1,8 @@
 # AzkaTronics – Smart Electronics Store Chatbot
 A Python-based chatbot for an electronics store that allows users to order products, compare specs, track orders, and apply for jobs via a terminal or GUI interface.
 
+Completed as a Level 4 group university project in 2022/2023.
+
 ## Features
 
 - Order Products: Browse and add items to your cart, save orders, and proceed to checkout.
